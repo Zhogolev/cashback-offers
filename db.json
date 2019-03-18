@@ -1,0 +1,22 @@
+{
+  "cashback-offers": [
+    {
+      "affiliateLink": "http://www.google.com",
+      "offerTitleText" : "oFFER title text",
+      "offerSubTitleText": "offer sub title",
+      "fullTitleText" : " FULL TEXT TITLE 1"
+    },
+    {
+      "affiliateLink": "http://www.ya.ru",
+      "offerTitleText" : "oFFER title text 2",
+      "offerSubTitleText": "offer sub title 2",
+      "fullTitleText" : " FULL TEXT TITLE 2"
+    },
+    {
+      "affiliateLink": "http://www.ya.ru",
+      "offerTitleText" : "oFFER title text 3",
+      "offerSubTitleText": "offer sub title 3",
+      "fullTitleText" : " FULL TEXT TITLE 3"
+    }
+  ]
+}
