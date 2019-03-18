@@ -7,6 +7,7 @@
         "CalculatedStockRate": 0,
         "logo_url": "https://images.igive.com/assets/images/1and1.gif",
         "gift_card": 0,
+       "domain": "bing.com",
         "CalculatedCashBackRate": 0,
         "exception_info": "The total advertised rebate is the combined rate for Cash Back and Stock Back.$0.40 Total rebate on the purchase of a new Domain Name or MyWebsite One services.$4.00 Total rebate for Web Hosting Business.$6.00 Total rebate for Web Hosting Pro.$8.00 Total rebate for Web Hosting Expert.Rebates are typically NOT available on the purchase of Gift Cards. Please review the Gift Cards category for a list of merchants that offer this benefit and confirm with individual brands' Known Exceptions for additional details.Items purchased for resale are not eligible for Rebate.",
         "CalculatedBitcoinRate": 0,
@@ -23,7 +24,7 @@
         "affiliate_url": "https://www.iconsumer.com/html/fm.cfm?vendorid=1454&s=147&afsrc=1",
         "BitcoinMemberSplitPercent": 0,
         "is_favorite": 0,
-        "domain": "google.com"
+        "domain": "google.com",
         "CalculatedStockRate": 1.2,
         "logo_url": "https://images.igive.com/assets/images/1800contacts.jpg",
         "gift_card": 0,
